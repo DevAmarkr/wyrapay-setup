@@ -34,7 +34,7 @@ const QRCodePage = () => {
       external_transaction_id: "string",
       external_client_id: "string",
       currency: "INR",
-      callback_url: "https://c244-122-172-86-147.ngrok-free.app/qr-code",
+      callback_url: "https://wyrapay-setup-qpauasnuv-devamarkrs-projects.vercel.app/qr-code",
       transaction_info: {
         label_text: "string",
         value_text: "string"
